@@ -6,7 +6,7 @@
 
   ## Presentations
 
-  * [[PUBLIC Adopting Scalability Improvements in Cilium](https://docs.google.com/presentation/d/1htcMXuriYO7H4boge1S9OLYbFGGF3HHwK4sPbiz1lIU/edit?usp=sharing)
-  * [[PUBLIC OSS Cilium Dev Summit Paris: Cilium + xDS](https://docs.google.com/presentation/d/1PHI1zSM0BGeTZ09YEIvVSYyZvxhZq8gVv8Kp6RQlAyc/edit?usp=sharing&resourcekey=0-Iq6zepRBv4orWRtdBCaVQQ)
+  * [PUBLIC Adopting Scalability Improvements in Cilium](https://docs.google.com/presentation/d/1htcMXuriYO7H4boge1S9OLYbFGGF3HHwK4sPbiz1lIU/edit?usp=sharing)
+  * [PUBLIC OSS Cilium Dev Summit Paris: Cilium + xDS](https://docs.google.com/presentation/d/1PHI1zSM0BGeTZ09YEIvVSYyZvxhZq8gVv8Kp6RQlAyc/edit?usp=sharing&resourcekey=0-Iq6zepRBv4orWRtdBCaVQQ)
 
   ![Group photo](./PXL_20240318_160452591.jpg)
