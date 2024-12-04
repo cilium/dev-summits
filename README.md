@@ -15,4 +15,4 @@ An attendance application form is circulated in the #general channel on eBPF & C
 TODO: Add links to folders containing notes for each summit 
 
 * [NA 2024  - Salt Lake City](2024-NA/README.md) 
-* EU 2024 - Paris
+* [EU 2024 - Paris](2024-EU/README.md)
