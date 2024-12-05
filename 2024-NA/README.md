@@ -5,6 +5,7 @@
 
 ## Presentations
 
+* [Cilium Datapath Plugins](./Cilium-Datapath-Plugins-Public.pdf)
 * [HA DNS Proxy](./devsummit_talk.pptm)
 * [BGP Route Learning](./SwaffordBGPNov2024.pdf)
 * [New Contributor Experience](https://docs.google.com/presentation/d/1CCzI7rR3rgN5XmeapW29-lqauHDXkcIReJ_2D9XwTSY/edit#slide=id.p)
