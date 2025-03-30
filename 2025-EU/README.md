@@ -5,4 +5,6 @@
 
 ## Presentations
 
+* [Cilium component testing with scripts](cilium-component-testing.html)
+
 ## Recording
