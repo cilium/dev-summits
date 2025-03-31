@@ -6,5 +6,6 @@
 ## Presentations
 
 * [Cilium component testing with scripts](cilium-component-testing.html)
+* [Cilium lb-ony](cilium-lb-only.pdf)
 
 ## Recording
