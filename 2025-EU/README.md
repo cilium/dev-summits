@@ -1,7 +1,7 @@
 # London 2025
 
 * [Schedule](https://docs.google.com/document/d/1jhnt9EZLO1L2lnKTGBQNyIY6LpqN0o8bbxmvRjudnMg/edit?usp=sharing)
-* [Raw notes]
+* [Raw notes](https://docs.google.com/document/d/1jhnt9EZLO1L2lnKTGBQNyIY6LpqN0o8bbxmvRjudnMg/edit?tab=t.0#heading=h.nd3oade7ywin)
 
 ## Presentations
 
