@@ -10,3 +10,6 @@
 * [ClusterMesh & Network Policies UX](clustermesh-network-policies-ux.md)
 
 ## Recording
+
+
+![Group photo](./dev-summit-25-eu.jpg)
