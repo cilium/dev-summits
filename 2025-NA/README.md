@@ -5,4 +5,6 @@
 
 ## Presentations
 
+* [Code Ownership in Cilium](./cds2025na-ownership.pdf)
+
 ## Recording
