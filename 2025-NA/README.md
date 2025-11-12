@@ -5,4 +5,6 @@
 
 ## Presentations
 
+* [Cilium Datapath Plugins](cilium-datapath-plugins.pdf)
+
 ## Recording
