@@ -5,6 +5,7 @@
 
 ## Presentations
 
+* [Code Ownership in Cilium](./cds2025na-ownership.pdf)
 * [Cilium Datapath Plugins](cilium-datapath-plugins.pdf)
 
 ## Recording
