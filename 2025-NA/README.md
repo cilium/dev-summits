@@ -9,3 +9,7 @@
 * [Cilium Datapath Plugins](cilium-datapath-plugins.pdf)
 
 ## Recording
+
+![Group photo 1](./dev-summit-25-na.jpg)
+
+![Group photo 2](./dev-summit-25-na-2.jpg)
