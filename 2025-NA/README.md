@@ -7,6 +7,7 @@
 
 * [Code Ownership in Cilium](./cds2025na-ownership.pdf)
 * [Cilium Datapath Plugins](cilium-datapath-plugins.pdf)
+* [Kubevirt Acceleration](kubevirt_acceleration_cilium_ebpf.pdf)
 
 ## Recording
 
