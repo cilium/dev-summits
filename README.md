@@ -12,6 +12,7 @@ An attendance application form is circulated in the #general channel on eBPF & C
 
 ## Past summits
 
+* [NA 2025 - Atlanta](2025-NA/README.md)
 * [EU 2025 - London](2025-EU/README.md)
-* [NA 2024  - Salt Lake City](2024-NA/README.md) 
+* [NA 2024 - Salt Lake City](2024-NA/README.md) 
 * [EU 2024 - Paris](2024-EU/README.md)
