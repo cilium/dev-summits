@@ -9,7 +9,13 @@
 * [Cilium Datapath Plugins](cilium-datapath-plugins.pdf)
 * [Kubevirt Acceleration](kubevirt_acceleration_cilium_ebpf.pdf)
 
-## Recording
+## Recordings
+
+* [Recording 1](https://drive.google.com/file/d/1FI5riN4vf4gf8lGNvNlzSZcI4ubKhBLU/view?usp=sharing) [Transcript 1](https://docs.google.com/document/d/125lRtn2-q8O0guLnfo-zjVBJ91J-QZuB/edit?usp=sharing&ouid=106239863691274586811&rtpof=true&sd=true)
+* [Recording 2](https://drive.google.com/file/d/159uIxKaXelhAZZvoiQrQT4CeJeqEjhRj/view?usp=sharing) [Transcript 2](https://docs.google.com/document/d/1TQquJR5LEZaYjXD8NztzKBcUqdHO2k0f/edit?usp=sharing&ouid=106239863691274586811&rtpof=true&sd=true)
+* [Recording 3](https://drive.google.com/file/d/1dfeY-rVX5p8nyfEU7Cbv0TMOmRmIkP6K/view?usp=sharing)
+
+## Group Pictures
 
 ![Group photo 1](./dev-summit-25-na.jpg)
 
