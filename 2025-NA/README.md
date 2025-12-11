@@ -8,6 +8,8 @@
 * [Code Ownership in Cilium](./cds2025na-ownership.pdf)
 * [Cilium Datapath Plugins](cilium-datapath-plugins.pdf)
 * [Kubevirt Acceleration](kubevirt_acceleration_cilium_ebpf.pdf)
+* [Cilium Scale](cilium_scale.pdf)
+* [Cilium Multi NIC](cilium_multi_nic.pdf)
 
 ## Recordings
 
