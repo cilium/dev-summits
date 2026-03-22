@@ -5,6 +5,9 @@
 
 ## Presentations
 
+* [Cluster Mesh Service v2](./clustermesh-service-v2.pdf)
+* [MCS-API CLuster Selection](./mcsapi-cluster-selection.pdf)
+
 ## Recordings
 
 ## Group Pictures
