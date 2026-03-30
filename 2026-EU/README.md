@@ -7,6 +7,7 @@
 
 * [Cluster Mesh Service v2](./clustermesh-service-v2.pdf)
 * [MCS-API CLuster Selection](./mcsapi-cluster-selection.pdf)
+* [Datapath plugins, Network Policy scale, Dataplane Tracing, Scale testing](./PUBLIC_ Cilium Dev Summit_ EU 2026.pdf)
 
 ## Recordings
 
