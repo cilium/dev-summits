@@ -19,3 +19,5 @@
 [transcript-part-2]: ./transcript-2.pdf
 
 ## Group Pictures
+
+![Group photo](./dev-summit.jpg)
