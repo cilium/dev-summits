@@ -12,6 +12,10 @@
 
 ## Recordings
 
+* [Recording 1](https://youtu.be/r8BMOysPAHc)
+* [Recording 2](https://youtu.be/9A3SpSAadrk)
+* [Recording 3](https://youtu.be/GOTSD_pMRPo)
+
 * Transcripts: [part 1][transcript-part-1] [part 2][transcript-part-2]. Note:
   transcripts were transcribed automatically and have not been checked for errors.
 
